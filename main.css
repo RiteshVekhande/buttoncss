@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+body{
+    font-family: "Gowun Batang", sans-serif;
+}
+
+img{
+    border-radius: 0.3rem;
+}
+
+.circle{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 3px;
+}
